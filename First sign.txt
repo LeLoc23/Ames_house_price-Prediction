@@ -1,0 +1,8 @@
+Project #4: House Price Prediction
+Dataset:[Ames Housing Dataset](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset)  
+Problem Type: Regression  
+Goal: Predict house prices based on various features.  
+Models: Linear Regression, Ridge, Lasso, XGBoost  
+Evaluation: RMSE, R2-score  
+Outcome: Build a robust model to estimate house prices.
+
